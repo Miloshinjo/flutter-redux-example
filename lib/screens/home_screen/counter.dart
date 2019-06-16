@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:redux/redux.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 
-import '../redux/models/app_state.dart';
+import '../../redux/models/app_state.dart';
 
 class Counter extends StatelessWidget {
   @override

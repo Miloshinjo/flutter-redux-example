@@ -3,7 +3,7 @@ import 'package:flutter_redux/flutter_redux.dart';
 
 import './redux/store.dart';
 import './redux/models/app_state.dart';
-import './screens/home_screen.dart';
+import './screens/home_screen/home_screen.dart';
 
 void main() => runApp(MyApp());
 
